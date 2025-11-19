@@ -1,0 +1,5 @@
+{
+  "name": "Neon Swing",
+  "description": "A high-velocity 2D physics platformer where you use a grappling hook to traverse levels and collect data nodes.",
+  "requestFramePermissions": []
+}
